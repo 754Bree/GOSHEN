@@ -2,8 +2,12 @@
     color: #D49B35;
     background-color: #1e1e1e;
     font-family:fantasy;
+    display: block;
 }
 
+#Logo {
+    margin-top:3% ;
+}
 #cf-1{
     display: flex;
     justify-content: space-evenly;
@@ -22,6 +26,39 @@
 }
 
 #form{
-    
     text-align: center;
+}
+
+#c-3{
+    margin-top: 2%;
+    display: flex;
+    font-size: small;
+    text-align: center;
+}
+
+#cpr{
+    height: 3vh;
+}
+
+#c-4{
+    padding-bottom: 2%;
+    border-bottom: #D49B35 solid 3px;
+
+}
+
+#h3{
+    text-decoration: underline 2px #D49B35;
+}
+#c-5{
+    display: flex;
+    max-width: min-content;
+    margin-bottom: 2%;
+}
+
+#fb,#google,#twitter{
+    height: 8vh;
+}
+
+#fb,#google,#twitter :hover{
+    
 }
