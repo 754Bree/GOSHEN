@@ -1,0 +1,27 @@
+#body{
+    color: #D49B35;
+    background-color: #1e1e1e;
+    font-family:fantasy;
+}
+
+#cf-1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#c-1{
+    margin-top: 10%;
+}
+
+#c-2{
+    background-color: #141414;
+    border-radius: 30px;
+    margin-top: 5%;
+    text-align: center;
+    display: block;
+    max-width: min-content;
+}
+
+#form{
+    
+    text-align: center;
+}
